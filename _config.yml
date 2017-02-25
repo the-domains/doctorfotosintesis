@@ -1,0 +1,35 @@
+content: []
+description: Fotografia y diseño
+title: Transformando la luz
+content_rating:
+  adult: false
+layout_spectrum: 0.5
+github: true
+author: {}
+name: Doctorfotosintesis
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.7912836181445242
+  lightness: 0.328255747288525
+  saturation: 0.7292185907087332
+  rhythmicContrast: 0.2542513546660196
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+typography_spectrum: 0.5
